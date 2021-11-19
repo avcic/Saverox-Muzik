@@ -1,0 +1,12 @@
+{
+    "activity": {
+        "name": "/help",
+        "type": "PLAYING"
+    },
+    "status": "dnd",
+  
+
+    "token": "OTA0NzU1Mjk0MTI1NTc2MjMz.YYAJBw.VfjUMJRN0BYam8ZIXL2jCpfpDaY",
+    "mainPrefix": "*",
+    "mainLang": "en"
+}
